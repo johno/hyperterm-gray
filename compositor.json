@@ -7,27 +7,20 @@
   "title": "gray",
   "branch": "",
   "style": {
-    "name": "Future",
-    "fontFamily": "\"Avenir Next\", Helvetica, sans-serif",
+    "name": "Williamsburg",
+    "fontFamily": "Montserrat, sans-serif",
     "heading": {
-      "fontWeight": 500,
-      "textTransform": "uppercase",
-      "letterSpacing": "0.2em"
-    },
-    "alternativeText": {
-      "textTransform": "uppercase",
-      "fontWeight": 400,
-      "letterSpacing": "0.2em",
-      "opacity": 0.75
+      "fontWeight": 600,
+      "letterSpacing": "0.1em"
     },
     "colors": {
-      "text": "#333",
+      "text": "#346",
       "background": "#fff",
-      "primary": "#777",
-      "secondary": "#ccc",
-      "highlight": "#1f80ff",
-      "muted": "#f6f6f6",
-      "border": "#eee"
+      "primary": "#0df",
+      "secondary": "#3ea",
+      "highlight": "#f7b",
+      "muted": "#fe1",
+      "border": "#ccd"
     }
   },
   "content": [
