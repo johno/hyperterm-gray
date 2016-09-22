@@ -2,21 +2,19 @@
 
 Grayscale hyperterm theme.
 
-![unspecified](https://cloud.githubusercontent.com/assets/1424573/18764446/b1fd6f36-80ce-11e6-95b2-d67515927a13.png)
-
-###### Goes great with `:colorscheme ron`
-
 ![rivuwetxiacgsmh6uffwbqia8isqjul1g8zrwqbjrj0](https://cloud.githubusercontent.com/assets/1424573/18769678/6df9e6fc-80ec-11e6-9924-9474498170d5.png)
 
-## Installation
+If you're a vim user, try `:colorscheme ron`.
+
+#### Installation
 
 Add `'hyperterm-gray'` to your `.hyperterm.js` plugins list.
 
-## License
+#### License
 
 MIT
 
-## Contributing
+#### Contributing
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
