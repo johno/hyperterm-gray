@@ -26,7 +26,7 @@ const colors = [
 ]
 
 module.exports.decorateConfig = config => Object.assign({}, config, {
-  color, borderColor, foregroundColor, backgroundColor, cursorColor,
+  color, colors, borderColor, foregroundColor, backgroundColor, cursorColor,
   css: `
     ${config.css || ''}
     .tab_tab {
