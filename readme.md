@@ -1,9 +1,8 @@
 # hyperterm-gray
 
-Gray hyperterm theme.
+Grayscale hyperterm theme.
 
-![vfaihxe4socumvwdukncr0jbchdopyxfpejutq6a-g4](https://cloud.githubusercontent.com/assets/1424573/16902444/b0089c2e-4c1b-11e6-841b-8d8013930a31.png)
-
+![unspecified](https://cloud.githubusercontent.com/assets/1424573/18764446/b1fd6f36-80ce-11e6-95b2-d67515927a13.png)
 
 ## Installation
 
