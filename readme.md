@@ -1,4 +1,4 @@
-# hyperterm-gray
+# ☵ hyperterm-gray
 
 Grayscale hyperterm theme.
 
